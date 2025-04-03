@@ -289,4 +289,3 @@ There are two components you must submit for this assigment. Both are required b
 **Important**: Even if your code does not pass all the tests, you will still be able to submit your files to receive partial points for the tests that you passed. **Make sure your code compiles on Gradescope in order to receive partial credit. The name of the files need to match those on the writeup, otherwise no points will be given for the submission.**
 
 **Note:** The autograder on Gradescope may take 15-20 minutes to fully complete, especially near the deadline. Please be aware of this when submitting your code to Gradescope.
-# cse12-sp25-pa1-RPS-starter
