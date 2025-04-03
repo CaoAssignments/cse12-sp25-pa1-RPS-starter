@@ -127,7 +127,7 @@ Your task is to implement the following methods in the following files:
 
 
 ## Testing
-We have provided some JUnit tests in `RPSTester.java`. You are encouraged (but not required this week) to add your own tests to this file. For this week we have given you all of the tests we will grade you on, but in the future that will not be the case!  
+We have provided some JUnit tests in `RPSTester.java`. You are encouraged (but not required this week) to add your own tests to this file. For this week we have given you all of the tests we will grade you on on Gradescope, but in the future that will not be the case! Note: The provided JUnit test file and the Gradescope tests are similar but slightly different.
 
 ## Style
 On this assignment, we will give you feedback on style but not deduct points for problems with style. For future assignments, we will be grading the following for style on all files you submit:
